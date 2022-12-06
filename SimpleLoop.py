@@ -4,6 +4,8 @@ for x in fruits:
 
   for x in "banana":
     print(x)
+
+    # sec example 
     
     i = 1
 while i < 6:
